@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315519928880",
+    "project_id": "kotlin-messenger-6c59d",
+    "storage_bucket": "kotlin-messenger-6c59d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315519928880:android:402a12f0712a7256c5bbf5",
+        "android_client_info": {
+          "package_name": "com.thorproject.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315519928880-jr8hlbelfmctk015fr6r97srj4d4rifr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzQYasKK2baDiHlcTWMQej5m-xMR8x0ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315519928880-jr8hlbelfmctk015fr6r97srj4d4rifr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
